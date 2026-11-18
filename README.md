@@ -27,6 +27,6 @@ SmartQueue is a campus canteen pre-ordering system designed to provide a more co
 5. Login: enter any school email (e.g. test@school.edu) and any password with 4 or more characters
 
 ## Project Structure
-- `src/View` - Source code (Contains the codes used to build the system.)
+- `src/View` - Source code (Contains the block of codes used to build the system.)
 - `screenshots` - Screenshots of each panel (Contains images of each system panel, showing the user interface and its features.)
 - `uml` - UML diagram (Contains Information about the System)
