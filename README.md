@@ -22,7 +22,7 @@ time waiting in line.
 - Francis Bajala - Repository / README
 
 ## How to Run
-1. Clone the repo: git clone [your repo link]
+1. Clone the repo: git clone (https://github.com/fbajala566262-lang/SmartQueue)
 2. Open the project in [IDE]
 3. Run [main file]
 4. Login: [test email / password]
