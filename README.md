@@ -22,7 +22,9 @@ time waiting in line.
 - Francis Bajala - Repository / README
 
 ## How to Run
-1. Clone the repo: git clone (https://github.com/fbajala566262-lang/SmartQueue)
-2. Open the project in [IDE]
-3. Run [main file]
-4. Login: [test email / password]
+1. Clone the repo: `git clone https://github.com/fbajala566262-lang/SmartQueue.git`
+2. Open Eclipse, then go to File → Import → Existing Projects into Workspace
+3. Select the cloned SmartQueue folder and click Finish
+4. Make sure a Java JDK is installed (Eclipse will tell you if not)
+5. Right-click [Main.java] → Run As → Java Application
+6. Login: [test email / password]
