@@ -17,9 +17,9 @@ time waiting in line.
 - "Your usual picks" quick reorder
 
 ## Team Members
-- Dwyane [last name] - Developer (code)
-- Sam Vincent Paul - UML / Documentation
-- [Your name] - Repository / README
+- Dwyane Del Rosario - Developer (code)
+- Sam Vincent Paul Pedrera - UML / Documentation
+- Francis Bajala - Repository / README
 
 ## How to Run
 1. Clone the repo: git clone [your repo link]
