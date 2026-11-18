@@ -30,6 +30,3 @@ SmartQueue is a campus canteen pre-ordering system designed to provide a more co
 - `src/View` - Source code (Contains the codes used to build the system.)
 - `screenshots` - Screenshots of each panel (Contains images of each system panel, showing the user interface and its features.)
 - `uml` - UML diagram (Contains Information about the System)
-
-## IMPORTANT NOTE
-- Read the "README.md" files for details and guides
