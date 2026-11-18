@@ -3,13 +3,10 @@
 > Good food. Less waiting.
 
 ## Description
-SmartQueue is a campus canteen pre-ordering system that allows the students to browse
-stalls, order ahead, and pick up their food at a set time, so they spend less
-time waiting in line. This is the initial progress version (UI with basic
-working features).
+SmartQueue is a campus canteen pre-ordering system designed to provide a more convenient and efficient food-ordering experience. This allows users to browse food stalls, place orders in advance, and schedule their preferred pickup times, helping reduce the long queues and waiting times. This initial progress showcases the system's user interface (UI) along with its basic functional features, demonstrating the foundation of the system.
 
 ## Features
-- Login with school email and password
+- Login with school Email and Password
 - Menu browsing by stall and category
 - Add to bag with quantity controls
 - Order tracking with status updates (Queued, Preparing, Ready, Picked up)
@@ -32,4 +29,7 @@ working features).
 ## Project Structure
 - `src/View` - Source code (Contains the codes used to build the system.)
 - `screenshots` - Screenshots of each panel (Contains images of each system panel, showing the user interface and its features.)
-- `uml` - UML diagram
+- `uml` - UML diagram (Contains Information about the System)
+
+## IMPORTANT NOTE
+- Read the "README.md" files for details and guides
